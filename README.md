@@ -9,7 +9,7 @@ Pandoc filter which converts sphinx-js blocks to markdown.
 
      :param Function handler: Event Handler
 
-     .. js-function:: handler( event )
+     .. js:function:: handler( event )
 
          :param event: 이벤트 객체
          :type event: :ref:`PageEventObject`
